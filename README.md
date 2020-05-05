@@ -2,7 +2,7 @@
 
 A Udactiy starbuk capstone Project
 ## Installation
-Must runing with Python 3+ with libraries of numpy, pandas, json, seaborn, matplotlib and sklearn.
+Software Requirements Python 3+ with packages numpy, pandas, json, seaborn, matplotlib and sklearn.
 
 Github repo link: https://github.com/anandtopu/udacity_starbucks_project/
 
@@ -10,12 +10,16 @@ Github repo link: https://github.com/anandtopu/udacity_starbucks_project/
 The motivation is trying to achieve the goal to help Starbucks, while practising my own data scientist skills. The goal of this project is to help Starbucks have a better understanding of the relationship between the promotion offers and its customers by the following two questions:
 
 **1. Understand which demographic group or kind of members choose the rewards or offers?**
+Understanding the insights into user demographics can be very important to any business. Such information could be used for targeted promotional and marketing activities to improve the customer base.
 
 **2. What is the best offer to send to a distinct user?**
+Running promotional randomly to every single user is probably not the most productive thing to do. The purpose of sending out such reward-based offers is to get a customer engaged. So, ideally, we would want them to complete an offer. Hence, if Starbucks can predict the best offer for a user, we will be ensuring that the offer will most likely be accepted and completed by customers.
 
 **3. How much will a user spend on the offer?**
+Depending on successful prediction customer spending, Starbucks can extend promotional offers to customers.
 
 **4. Exactly how users are accepting the offers?**
+Analyzing the patterns of user spends based on the offers we can measure the efficiency of a promotional offer campaign.
 
 ## File Descriptions
 The data is contained in three files:
