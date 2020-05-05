@@ -1,4 +1,4 @@
-# Starbuck offer and customer Data Analysis
+# Starbucks Capstone Challenge
 
 A Udactiy starbuk capstone Project
 ## Installation
